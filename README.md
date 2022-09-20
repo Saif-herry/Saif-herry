@@ -2,13 +2,23 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saif-herry&label=Profile%20views&color=0e75b6&style=flat" alt="saif-herry" /> </p>
-- 🌱 I’m currently learning **Full-Stack Web Development**
+- 🔭 I’m currently Studying at [MASAI SCHOOL](https://course.masaischool.com/)  
 - <img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="450" height="280"/>
-- 💬 Ask me about **HTML CSS JavaScript React.js**
 
-- 📫 How to reach me **saifsami321md@gmail.com**
+- 🌱 I’m currently learning *****Full stack......*****
+
+ - 👯 I’m looking to collaborate on Projects 
+ 
+ - 🤝 I’m looking for help outstanding Project Idea  
+
+- 💬 Ask me Anything   *****Related to web development technology*****
+
+- 📫 How to reach me **saifsami321md@gmail.com**
+- 👨‍💻 All of my projects are available at **https://mohammad-saif-portfolio.vercel.app/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pJhq3DXNX31xt3D7IiIWpf79AAsq1X5Q/view?usp=sharing](https://drive.google.com/file/d/1pJhq3DXNX31xt3D7IiIWpf79AAsq1X5Q/view?usp=sharing)
+
+- ⚡ Fun fact *****The first person convicted of speeding was going eight mph*****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,3 +31,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saif-herry&show_icons=true&locale=en&layout=compact" alt="saif-herry" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saif-herry&show_icons=true&locale=en" alt="saif-herry" /></p>
+
+<h3 align="center">A passionate frontend developer from India</h3> 
+  
+ Support 🙏 If you like my work, please consider buying me a coffee/tea 🥺
