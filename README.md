@@ -16,7 +16,7 @@
 - 📫 How to reach me **saifsami321md@gmail.com**
 - 👨‍💻 All of my projects are available at **https://mohammad-saif-portfolio.vercel.app/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pJhq3DXNX31xt3D7IiIWpf79AAsq1X5Q/view?usp=sharing](https://drive.google.com/file/d/1pJhq3DXNX31xt3D7IiIWpf79AAsq1X5Q/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
 
 - ⚡ Fun fact *****The first person convicted of speeding was going eight mph*****
 
