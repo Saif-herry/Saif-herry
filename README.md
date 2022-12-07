@@ -8,9 +8,10 @@
 
 <h2 align="center"> :card_file_box: About Me</h2>
 
-<h3 align="center">Passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.</h3>
+<h4 align="center">Passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saif-herry&label=Profile%20views&color=0e75b6&style=flat" alt="saif-herry" /> </p>
+
 - 🔭 I’m currently Studying at [MASAI SCHOOL](https://course.masaischool.com/)  
 - <img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="450" height="280"/>
 
