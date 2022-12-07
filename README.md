@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Saif</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saif-herry&label=Profile%20views&color=0e75b6&style=flat" alt="saif-herry" /> </p>
 - 🔭 I’m currently Studying at [MASAI SCHOOL](https://course.masaischool.com/)  
