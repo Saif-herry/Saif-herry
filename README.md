@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mohammad Saif</h1>
+<h2 align="center">
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://rakesh-swain.netlify.app/" target="_blank" rel="noopener noreferrer">Mohammad Saif </a>!
+</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;&center=true&width=500&height=50">
+</p>
+
+<h2 align="center"> :card_file_box: About Me</h2>
+
 <h3 align="center">Passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saif-herry&label=Profile%20views&color=0e75b6&style=flat" alt="saif-herry" /> </p>
