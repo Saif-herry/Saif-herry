@@ -11,10 +11,8 @@
 <h4 align="center">Passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saif-herry&label=Profile%20views&color=0e75b6&style=flat" alt="saif-herry" /> </p>
-
+<img height="200px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
 - 🔭 I’m currently learning MERN 
-- <img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="450" height="280"/>
-
  - 👯 I’m looking to collaborate on Projects 
  
  - 🤝 I’m looking for help outstanding Project Idea  
