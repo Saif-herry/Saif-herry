@@ -12,10 +12,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saif-herry&label=Profile%20views&color=0e75b6&style=flat" alt="saif-herry" /> </p>
 
-- 🔭 I’m currently Studying at [MASAI SCHOOL](https://course.masaischool.com/)  
+- 🔭 I’m currently learning MERN 
 - <img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="450" height="280"/>
-
-- 🌱 I’m currently learning *****Full stack......*****
 
  - 👯 I’m looking to collaborate on Projects 
  
