@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="[https://rakesh-swain.netlify.app/](https://mohammad-saif-portfolio.vercel.app/)" target="_blank" rel="noopener noreferrer">Mohammad Saif </a>!
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://mohammad-saif-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">Mohammad Saif </a>!
 </h2>
 
 <p align="center">
