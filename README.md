@@ -22,7 +22,7 @@
 - 💬 Ask me Anything   *****Related to web development technology*****
 
 - 📫 How to reach me **saifsami321md@gmail.com**
-- 👨‍💻 All of my projects are available at **https://mohammad-saif-portfolio.vercel.app/**
+
 
 - 📄 Know about my experiences[https://drive.google.com/file/d/1J-tRYPz92KFMszyK-c2fWIDuGwI91ddy/view]
 
