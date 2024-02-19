@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saif-herry&label=Profile%20views&color=0e75b6&style=flat" alt="saif-herry" /> </p>
 <img height="200px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
-- 🔭 I’m currently learning MERN 
+- 🔭 I’m currently working as a MERN Stack Developer. 
 
 
   - 👯 I’m looking to collaborate on Projects 
