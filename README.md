@@ -24,7 +24,7 @@
 - 📫 How to reach me **saifsami321md@gmail.com**
 
 
-- 📄 Know about my experiences[https://drive.google.com/file/d/1A68ylBCJ1zyA19BwX2LmaOdlKbjaP2U8/view?usp=sharing]
+- 📄 Know about my experiences[https://drive.google.com/file/d/1A68ylBCJ1zyA19BwX2LmaOdlKbjaP2U8/view?usp]
 
 - ⚡ Fun fact *****The first person convicted of speeding was going eight mph*****
 
