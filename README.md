@@ -8,7 +8,7 @@
 
 <h2 align="center"> :card_file_box: About Me</h2>
 
-<h4 align="center">Passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.</h4>
+<h4 align="center">I’m a passionate, experienced Full Stack Web Developer (MERN) with a strong focus on creating clean, scalable, and user-centric web applications. I enjoy transforming real-world problems into efficient technical solutions and collaborating with forward-thinking teams. Currently seeking opportunities to contribute and grow with a technology-driven company.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saif-herry&label=Profile%20views&color=0e75b6&style=flat" alt="saif-herry" /> </p>
 <img height="200px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
